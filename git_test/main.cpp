@@ -18,5 +18,6 @@ int main()
 	std::cout << "ĞŞ¸Ä2" << std::endl;
 	std::cout << "modify_is" << std::endl;
 
+	std::cout << "modify2" << std::endl;
 	return 0;
 }
