@@ -8,7 +8,8 @@ int main()
 	{
 		Ivec.emplace_back(i);
 	}
-	std::cout << "�޸�" << std::endl;
+	std::cout<<"new_master"<<std::endl;
+	std::cout << "ÐÞ¸Ä" << std::endl;
 	std::cout << "Ivec[0]:" << Ivec[0] << std::endl;
 	return 0;
 }
