@@ -9,6 +9,8 @@ int main()
 		Ivec.emplace_back(i);
 	}
 	std::cout << "ÐÞ¸Ä" << std::endl;
+	std::cout << "dev_test:master" << std::endl;
 	std::cout << "Ivec[0]:" << Ivec[0] << std::endl;
+	std::cout << "ÐÞ¸Ä2" << std::endl;
 	return 0;
 }
