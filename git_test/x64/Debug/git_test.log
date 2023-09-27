@@ -1,4 +1,4 @@
 ﻿  main.cpp
-  LINK : 没有找到 E:\program\test_git\git_test\x64\Debug\git_test.exe 或上一个增量链接没有生成它；正在执行完全链接
+e:\program\test_git\git_test\git_test\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
   git_test.vcxproj -> E:\program\test_git\git_test\x64\Debug\git_test.exe
   git_test.vcxproj -> E:\program\test_git\git_test\x64\Debug\git_test.pdb (Full PDB)
